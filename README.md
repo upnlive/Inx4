@@ -1,6 +1,6 @@
 ## Welcome to Inx4
 
-INTRINSIC INCLUSIVE INNOVATION INCUBATORS
+INTRINSIC INCLUSIVE INNOVATION INCUBATOR
 
 ### Notes on Usage 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
